@@ -1,0 +1,3 @@
+C:/Users/AHLEM/MIN-Bank/build-api/CMakeFiles/min-bank-api.dir
+C:/Users/AHLEM/MIN-Bank/build-api/CMakeFiles/edit_cache.dir
+C:/Users/AHLEM/MIN-Bank/build-api/CMakeFiles/rebuild_cache.dir
